@@ -1,0 +1,10 @@
+id,source,evidence
+453bf4ba-a362-40e5-a0ae-238fce9f1437,seeded_fixture,feedback text appears in seed_flagged.py FIXTURES
+1a965003-6675-4503-b3e6-1173399fb4f2,seeded_fixture,feedback text appears in seed_flagged.py FIXTURES
+756276af-f470-4ad7-9c31-8c9924be279a,seeded_fixture,feedback text appears in seed_flagged.py FIXTURES
+c842b989-930a-4d17-8cbc-788c76188a84,seeded_fixture,feedback text appears in seed_flagged.py FIXTURES
+1e27456d-37fd-4d67-9f01-07c00e0a6294,seeded_fixture,feedback text appears in seed_flagged.py FIXTURES
+384bb5ca-cfe0-49cc-8502-4c1ecbc2108f,dev_mock,summary equals the DEV mock fallback string
+2fcd7079-1ee4-4b8f-a2fc-887004609c6e,dev_mock,summary equals the DEV mock fallback string
+03dcd10f-9616-4e96-9921-cdcba5459dcd,dev_mock,summary equals the DEV mock fallback string
+2738213c-13b6-4a6c-a266-63299d5c4aed,dev_mock,summary equals the DEV mock fallback string

@@ -1,0 +1,5 @@
+source,severity,records
+dev_mock,high,4
+seeded_fixture,high,2
+seeded_fixture,medium,1
+seeded_fixture,low,2

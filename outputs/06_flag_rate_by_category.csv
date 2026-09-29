@@ -1,0 +1,7 @@
+category,phrases,flagged,pct_flagged,high,medium,low
+non_actionable,12,12,100.0,12,0,0
+out_of_taxonomy,11,11,100.0,11,0,0
+vague,12,12,100.0,12,0,0
+terse,12,10,83.3,10,0,0
+multi_issue,12,5,41.7,4,0,1
+clear_in_taxonomy,12,1,8.3,1,0,0

@@ -1,0 +1,10 @@
+id,source,severity,n_reasons,reasons
+1a965003,seeded_fixture,high,3,"model_self_reported_low_confidence, no_problem_identified, tiny_metric_bundle"
+384bb5ca,dev_mock,high,3,"model_self_reported_low_confidence, no_task_or_problem_identified, tiny_metric_bundle"
+2fcd7079,dev_mock,high,3,"model_self_reported_low_confidence, no_task_or_problem_identified, tiny_metric_bundle"
+03dcd10f,dev_mock,high,3,"model_self_reported_low_confidence, no_task_or_problem_identified, tiny_metric_bundle"
+2738213c,dev_mock,high,3,"model_self_reported_low_confidence, no_task_or_problem_identified, tiny_metric_bundle"
+453bf4ba,seeded_fixture,high,2,"no_task_or_problem_identified, tiny_metric_bundle"
+c842b989,seeded_fixture,medium,2,"no_task_identified, tiny_metric_bundle"
+756276af,seeded_fixture,low,1,no_problem_identified
+1e27456d,seeded_fixture,low,1,tiny_metric_bundle

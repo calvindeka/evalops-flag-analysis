@@ -1,0 +1,73 @@
+phrase_id,category,feedback
+p01,clear_in_taxonomy,The assistant takes almost a minute to answer even simple questions.
+p02,clear_in_taxonomy,"I can't tell where the answers come from, there are no sources I can check."
+p03,clear_in_taxonomy,It gave me a wrong date for a treaty and stated it with total confidence.
+p04,clear_in_taxonomy,Search results keep returning documents that have nothing to do with my query.
+p05,clear_in_taxonomy,The summaries it writes for my reports are confusing and contradict themselves.
+p06,clear_in_taxonomy,I have to click through five screens just to upload one document.
+p07,clear_in_taxonomy,It dumps forty results on me with no way to sort or filter them.
+p08,clear_in_taxonomy,I don't trust the answers enough to use them without double-checking everything.
+p09,clear_in_taxonomy,When I ask it to sort incoming tickets into categories it puts many in the wrong bucket.
+p10,clear_in_taxonomy,The drafts it produces for long reports lose the thread halfway through.
+p11,clear_in_taxonomy,It says a claim is verified but the citation it gives doesn't support it.
+p12,clear_in_taxonomy,Answers to factual questions are frequently just plain incorrect.
+p13,multi_issue,It's slow and half the time the answer is wrong.
+p14,multi_issue,The results are irrelevant and I can't find where any of it came from.
+p15,multi_issue,"Too many results, poorly organized, and the interface is clunky."
+p16,multi_issue,"I don't trust it, and the summaries are incoherent when documents are long."
+p17,multi_issue,"Wrong facts, slow responses, and no citations."
+p18,multi_issue,"It buries me in text, and then the text contradicts itself."
+p19,multi_issue,Upload is confusing and then the search returns unrelated files.
+p20,multi_issue,The drafts are rambling and the facts inside them are made up.
+p21,multi_issue,Triage results are inconsistent and I can't see why it chose them.
+p22,multi_issue,"Slow to load, hard to navigate, and I never know if I can rely on it."
+p23,multi_issue,It keeps giving outdated answers and won't say where it got them.
+p24,multi_issue,"Reading the output is exhausting: long, repetitive, and sometimes wrong."
+p25,vague,It's not great.
+p26,vague,Something feels off about the results lately.
+p27,vague,I just don't love using it.
+p28,vague,"Sometimes it works, sometimes it doesn't."
+p29,vague,The quality has gone downhill.
+p30,vague,It could be better.
+p31,vague,I expected more from this tool.
+p32,vague,There's something weird about how it behaves.
+p33,vague,Not sure what's wrong but I'm not happy.
+p34,vague,It doesn't feel reliable somehow.
+p35,vague,Results are meh.
+p36,vague,I keep having a bad experience with it.
+p37,out_of_taxonomy,The assistant keeps forgetting what we discussed earlier in the conversation.
+p38,out_of_taxonomy,It refuses harmless requests and lectures me about safety.
+p39,out_of_taxonomy,I'm worried it stores my confidential documents somewhere.
+p40,out_of_taxonomy,The tone is condescending and it talks down to me.
+p41,out_of_taxonomy,It seems biased against certain groups in how it summarizes people.
+p42,out_of_taxonomy,Running it is far too expensive for our team's budget.
+p43,out_of_taxonomy,It ignores formatting instructions like bullet points or word limits.
+p44,out_of_taxonomy,The voice mode mispronounces names constantly.
+p45,out_of_taxonomy,It can't read the scanned PDFs my department uses.
+p46,out_of_taxonomy,It responds in English even when I write in Spanish.
+p47,out_of_taxonomy,The mobile app crashes whenever I rotate my phone.
+p48,out_of_taxonomy,It doesn't integrate with our ticketing system at all.
+p49,non_actionable,"Great tool, thanks!"
+p50,non_actionable,Love it.
+p51,non_actionable,What time does the cafeteria open?
+p52,non_actionable,Can you add me to the mailing list?
+p53,non_actionable,Thanks for the quick help yesterday.
+p54,non_actionable,"Nothing to report, everything works fine for me."
+p55,non_actionable,My manager told me to fill this form out.
+p56,non_actionable,Happy with the results so far.
+p57,non_actionable,Is there a user guide somewhere?
+p58,non_actionable,Good morning!
+p59,non_actionable,Test test test.
+p60,non_actionable,The weather is nice today.
+p61,terse,Slow.
+p62,terse,Wrong answers.
+p63,terse,No sources.
+p64,terse,Too much text.
+p65,terse,Confusing.
+p66,terse,Hallucinations.
+p67,terse,Can't verify.
+p68,terse,Irrelevant.
+p69,terse,Hard to use.
+p70,terse,Untrustworthy.
+p71,terse,Laggy.
+p72,terse,Inaccurate.

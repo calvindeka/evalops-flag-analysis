@@ -1,0 +1,15 @@
+kind,label,n,flagged,rank_in_kind
+problem,low_accuracy,15,7,1
+problem,poor_usability,13,11,2
+problem,low_trust,12,5,3
+problem,hard_to_verify,8,0,4
+problem,poor_coherence,8,4,4
+problem,latency,6,4,6
+problem,information_overload,5,4,7
+problem,irrelevant_results,4,1,8
+task,verification,8,0,1
+task,ad_hoc_info_gathering,7,3,2
+task,factual_qa,5,1,3
+task,report_drafting,5,1,3
+task,sensemaking,3,2,5
+task,triage_classification,2,0,6
